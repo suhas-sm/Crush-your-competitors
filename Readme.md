@@ -1,0 +1,48 @@
+# Crush-Your-Competitors [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)]
+
+This is basically a one pager portfolio Template project made in HTML/CSS for a SEO based Service on the internet.
+Hope you like my project !! And as it is not responsive it works well in laptop screen and please zoom in in case of other device.
+
+
+## 🛠 Technologies Used
+  - HTML - Hyper Text Markup Language
+  - CSS - Cascadeing Style Sheet
+  
+
+## Demo
+
+![page-img](./assets/page_img.PNG)
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/suhas-sm/Crush-your-competitors.git
+```
+
+Go to the project directory
+
+```bash
+  cd Crush-your-competitors
+```
+## Author and Contact
+- [Find-coder](https://www.findcoder.io/u/suhas_sm)
+    - [![facebook](https://img.shields.io/badge/Facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/suhas.melmuri)
+    - [![instagram](https://img.shields.io/badge/Instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_suhas_sm/)
+
+## Features
+
+- UI/UX Design
+- One Pager Website
+- Use of pacing two divs side by side
+
+## What i have learnt By working on this project
+1. Got a good understanding on what are css units by my research like `em`, `rem`, `percentages`, `vh` and `vw` etc.
+
+## Honest Time to finish the project
+
+I had took about 30 min to 40 min approximately as only xoncentartion required was on font-size and font-weight.
+## Feedback
+
+If you have any feedback, please reach out to us at melmurissm11@gmail.com
