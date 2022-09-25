@@ -1,4 +1,4 @@
-# Crush-Your-Competitors [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)]
+# Crush-Your-Competitors
 
 This is basically a one pager portfolio Template project made in HTML/CSS for a SEO based Service on the internet.
 Hope you like my project !! And as it is not responsive it works well in laptop screen and please zoom in in case of other device.
